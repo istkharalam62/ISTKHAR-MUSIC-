@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/13afb9ee5c5da17930f1e.png">
+  <img src="https://files.catbox.moe/5xywtm.jpg">
 </p>
 
 
@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/istkharalam62/ISTKHAR-MUSIC-"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
